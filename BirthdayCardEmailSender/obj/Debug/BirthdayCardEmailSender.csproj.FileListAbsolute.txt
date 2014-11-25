@@ -1,0 +1,9 @@
+D:\Job\coBuilder\BirthdayCardEmailSender\BirthdayCardEmailSender\bin\Debug\BirthdayCardEmailSender.exe.config
+D:\Job\coBuilder\BirthdayCardEmailSender\BirthdayCardEmailSender\bin\Debug\BirthdayCardEmailSender.exe
+D:\Job\coBuilder\BirthdayCardEmailSender\BirthdayCardEmailSender\bin\Debug\BirthdayCardEmailSender.pdb
+D:\Job\coBuilder\BirthdayCardEmailSender\BirthdayCardEmailSender\obj\Debug\BirthdayCardEmailSender.csprojResolveAssemblyReference.cache
+D:\Job\coBuilder\BirthdayCardEmailSender\BirthdayCardEmailSender\obj\Debug\BirthdayCardEmailSender.BirthdayCardEmailSender.resources
+D:\Job\coBuilder\BirthdayCardEmailSender\BirthdayCardEmailSender\obj\Debug\BirthdayCardEmailSender.Properties.Resources.resources
+D:\Job\coBuilder\BirthdayCardEmailSender\BirthdayCardEmailSender\obj\Debug\BirthdayCardEmailSender.csproj.GenerateResource.Cache
+D:\Job\coBuilder\BirthdayCardEmailSender\BirthdayCardEmailSender\obj\Debug\BirthdayCardEmailSender.exe
+D:\Job\coBuilder\BirthdayCardEmailSender\BirthdayCardEmailSender\obj\Debug\BirthdayCardEmailSender.pdb
